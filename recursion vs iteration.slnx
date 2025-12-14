@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="recursion vs iteration/recursion vs iteration.vcxproj" Id="421e8c49-5aef-435b-9813-c5b099b0bf95" />
+</Solution>
